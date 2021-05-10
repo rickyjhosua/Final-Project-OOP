@@ -1,0 +1,29 @@
+﻿  MyForm.cpp
+C:\Users\HP\source\repos\ATMCPPsys\ATMCPPsys\MyForm.h(496,23): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\HP\source\repos\ATMCPPsys\ATMCPPsys\MyForm.h(497,23): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\HP\source\repos\ATMCPPsys\ATMCPPsys\MyForm.h(498,23): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\HP\source\repos\ATMCPPsys\ATMCPPsys\MyForm.h(499,23): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\HP\source\repos\ATMCPPsys\ATMCPPsys\MyForm.h(501,24): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\HP\source\repos\ATMCPPsys\ATMCPPsys\MyForm.h(502,24): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\HP\source\repos\ATMCPPsys\ATMCPPsys\MyForm.h(503,24): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\HP\source\repos\ATMCPPsys\ATMCPPsys\MyForm.h(504,24): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\HP\source\repos\ATMCPPsys\ATMCPPsys\MyForm.h(694,1): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+C:\Users\HP\source\repos\ATMCPPsys\ATMCPPsys\MyForm.h(713,25): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\HP\source\repos\ATMCPPsys\ATMCPPsys\MyForm.h(728,23): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\HP\source\repos\ATMCPPsys\ATMCPPsys\MyForm.h(729,23): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\HP\source\repos\ATMCPPsys\ATMCPPsys\MyForm.h(730,23): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\HP\source\repos\ATMCPPsys\ATMCPPsys\MyForm.h(731,23): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\HP\source\repos\ATMCPPsys\ATMCPPsys\MyForm.h(733,24): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\HP\source\repos\ATMCPPsys\ATMCPPsys\MyForm.h(734,24): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\HP\source\repos\ATMCPPsys\ATMCPPsys\MyForm.h(735,24): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\HP\source\repos\ATMCPPsys\ATMCPPsys\MyForm.h(736,24): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\HP\source\repos\ATMCPPsys\ATMCPPsys\MyForm.h(790,22): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\HP\source\repos\ATMCPPsys\ATMCPPsys\MyForm.h(791,22): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\HP\source\repos\ATMCPPsys\ATMCPPsys\MyForm.h(792,22): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\HP\source\repos\ATMCPPsys\ATMCPPsys\MyForm.h(793,22): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\HP\source\repos\ATMCPPsys\ATMCPPsys\MyForm.h(795,23): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\HP\source\repos\ATMCPPsys\ATMCPPsys\MyForm.h(796,23): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\HP\source\repos\ATMCPPsys\ATMCPPsys\MyForm.h(797,23): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\HP\source\repos\ATMCPPsys\ATMCPPsys\MyForm.h(798,23): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ATMCPPsys.vcxproj -> C:\Users\HP\source\repos\ATMCPPsys\x64\Debug\ATMCPPsys.exe
